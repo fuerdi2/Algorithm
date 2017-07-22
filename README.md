@@ -1,2 +1,2 @@
 # Algorithm
-The folder records algorithm learning.
+简要记录了《算法》第四版学习过程
